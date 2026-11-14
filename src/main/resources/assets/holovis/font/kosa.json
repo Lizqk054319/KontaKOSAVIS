@@ -1,0 +1,7 @@
+{
+  "providers": [
+    { "type": "bitmap", "file": "holovis:font/kosa_badge.png", "height": 9, "ascent": 8, "chars": [""] },
+    { "type": "bitmap", "file": "holovis:font/kosa_k.png", "height": 9, "ascent": 8, "chars": [""] },
+    { "type": "space", "advances": { "": -10, "": 3 } }
+  ]
+}
